@@ -25,4 +25,4 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
 ## Author
 
 - Frontend Mentor - [@Ahmed-Mustafa132](https://www.frontendmentor.io/profile/Ahmed-Mustafa132)
-- facebook - [@ahmed mostafa](https://www.facebook.com/profile.php?id=100009378908202)
+- facebook - [@Dev-Ahmed-mostafa](https://www.facebook.com/profile.php?id=100009378908202)
