@@ -4,36 +4,25 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Links](#links)
+- [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
-
-### Links
+## Links
 
 - Solution URL: (https://www.frontendmentor.io/solutions/bookmark-landing-page-master-YLsQvGsW5i)
 - Live Site URL: (https://bookmark-landing-page-masterbyahmed.netlify.app/)
 
-## My process
-
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-
-
-
+- JavaScript
+- Javascript DOM
+- Javascript RegExp
 
 ## Author
 
 - Frontend Mentor - [@@Ahmed-Mustafa132](https://www.frontendmentor.io/profile/Ahmed-Mustafa132)
 - facebook - (https://www.facebook.com/profile.php?id=100009378908202)
-
