@@ -11,7 +11,7 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
 
   ## Screenshot
 
-![](./[screenshot.jpg](https://raw.githubusercontent.com/Ahmed-Mustafa132/bookmark-landing-page-master/main/design/desktop-preview.jpg))
+[screenshot.jpg](https://raw.githubusercontent.com/Ahmed-Mustafa132/bookmark-landing-page-master/main/design/desktop-preview.jpg))
 
 
 ## Links
