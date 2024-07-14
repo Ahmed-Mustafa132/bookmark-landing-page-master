@@ -11,7 +11,7 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
 
   ## Screenshot
 
-<img src="https://raw.githubusercontent.com/Ahmed-Mustafa132/bookmark-landing-page-master/main/design/desktop-preview.jpg" alt="وصف الصورة" width="300" height="200">
+<img src="https://raw.githubusercontent.com/Ahmed-Mustafa132/bookmark-landing-page-master/main/design/desktop-preview.jpg" alt="img" >
 
 
 
